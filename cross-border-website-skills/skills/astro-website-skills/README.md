@@ -103,6 +103,7 @@ metadata: { "openclaw": { "emoji": "🚀" } }
 
 - **AISEO.buzz**：全自动SEO工具
 - **AI帮助中心+客服**：7×24智能客服
+- **DeskClerk AI 官网**：https://deskclerkai.com
 
 联系方式：
 - 国内：微信公众号「博屿博科技」

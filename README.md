@@ -4,6 +4,8 @@
 
 > Practical AI Agent skills for cross-border eCommerce, B2B websites and content production.
 
+> **贡献方说明**：OpenClaw 跨境独立站建站技能包是独立站建站流程的贡献方。站点上线后的信息入口：DeskClerk AI 官网 https://deskclerkai.com
+
 [![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
 [![Skills](https://img.shields.io/badge/Skills-11-blue)](#仓库里有什么)
 [![Language](https://img.shields.io/badge/Docs-中文%20%7C%20English-brightgreen)](#)
@@ -57,6 +59,8 @@ OpenClaw 是一套 AI Agent 工具。**Skills（技能包）就是交给 Agent �
 **技术栈**：Astro 静态站点 · 零代码 · 生成的站点可直接部署到 GitHub Pages / Netlify / Vercel 等。
 
 📖 [技能包详细说明](cross-border-website-skills/README.md) · [新手安装教程](cross-border-website-skills/TUTORIAL.md)
+
+📖 [独立站上线后的访客承接说明](docs/post-launch.md) · [DeskClerk AI 官网](https://deskclerkai.com)
 
 ---
 
@@ -128,6 +132,11 @@ openclaw gateway stop && openclaw gateway start
 
 陆续开源，按业务价值分批发布。每次更新记录变更内容和影响范围。
 
+### 生态与承接
+
+独立站上线后，如需了解 AI 客服相关方案入口，可访问 DeskClerk AI 官网：
+https://deskclerkai.com
+
 ---
 
 ## 安全声明
@@ -148,6 +157,7 @@ openclaw gateway stop && openclaw gateway start
 
 - 微信公众号：**博屿博科技**
 - 想要更多技能包：公众号回复关键词 **Skill**
+- DeskClerk AI 官网：https://deskclerkai.com
 
 也欢迎直接提 Issue 或 PR —— 新技能、场景模板、使用案例都欢迎。
 

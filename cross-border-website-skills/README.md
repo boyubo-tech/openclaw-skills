@@ -2,6 +2,8 @@
 
 > AI 自动建站技能包 | AI Website Builder Skills | 零代码建站 | No-Code Website Generator
 
+> **贡献方说明**：本技能包是独立站建站流程的贡献方。站点上线后的信息入口：DeskClerk AI 官网 https://deskclerkai.com
+
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Skills-blue)](https://openclaw.ai)
 [![License](https://img.shields.io/badge/License-MIT-green)](../LICENSE)
 [![中文](https://img.shields.io/badge/语言-中文-red)](README.md)
@@ -191,6 +193,8 @@ OpenClaw 会自动完成以下步骤（全程 20-30 分钟，只需回答问题�
 | 8️⃣ 质量检测 | 校验代码符合设计规范 |
 | 9️⃣ 打包合并 | 生成完整可用的网站包 |
 
+📖 [独立站上线后的访客承接与 AI 客服选型](../docs/post-launch.md)
+
 ---
 
 ## 技能列表 | Skills List
@@ -339,6 +343,7 @@ OpenClaw 按以下优先级加载技能（高→低）：
 - 📚 OpenClaw 官方文档：https://docs.openclaw.ai/zh-CN
 - 📞 建站相关问题：关注微信公众号「博屿博科技」
 - 🌐 海外支持：https://aiseo.buzz
+- 🌐 DeskClerk AI 官网：https://deskclerkai.com
 - 🐛 Bug 反馈 / 功能建议：提交 GitHub Issue
 
 ---
